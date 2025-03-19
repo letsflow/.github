@@ -1,6 +1,4 @@
-![letsflow](https://github.com/letsflow/workflow-engine/assets/100821/3852a14e-90f8-4f8f-a334-09516f43bbc1)
-
-Letsflow is a human-centric workflow automation engine that blends automation with human decision-making, enabling dynamic interactions between people and automated steps.
+Letsflow is a **human-centric workflow automation** engine that blends automation with human decision-making, enabling dynamic interactions between people and automated steps.
 
 ```yaml
 actors:
@@ -26,4 +24,4 @@ The *scenario* models a *process* as a fine-state machine. The *actors* are pers
 
 ---
 
-## [Read the documentation](https://www.letsflow.io/)
+### [Read the documentation](https://www.letsflow.io/)
